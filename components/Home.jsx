@@ -20,13 +20,15 @@ const Home = () => {
      </p>
 
         <p>
-          Bana hızlı bir şekilde ulaşmak için {' '}.
+          Bana hızlı bir şekilde ulaşmak için {' '}
           <Link
             className='cursor-ne-resize  font-bold'
             href='https://www.instagram.com/roi.xyz/'
           >
             Instagram
+            
           </Link>
+.
         </p>
         <p>
           {' '}
@@ -42,7 +44,7 @@ const Home = () => {
           >
             Twitter
           </Link>
-           ve {' '}
+           &Nbsp ve {' '}
           <Link
             className='cursor-ne-resize  font-bold'
             href='https://www.snapchat.com/add/roi.xyz?share_id=rHzo2vf6aAw&locale=en-AU'
