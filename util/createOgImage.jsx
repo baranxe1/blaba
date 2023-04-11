@@ -22,12 +22,12 @@ export const createOgImage = ({ title, meta }) =>
 
     // PROFILE IMAGE
     // dynamically fetched from my twitter profile
-    `l_twitter_name:halidislm`,
+    `l_twitter_name:arjenxyz`,
     // Transformations
     `c_thumb,g_face,r_max,w_380,h_380,q_100`,
     // Positioning
     `fl_layer_apply,w_140,g_north_west,x_100,y_100`,
 
     // BG
-    `ogImages.jpg`,
+    `GumtGcLJ.jpg`,
   ].join('/')
