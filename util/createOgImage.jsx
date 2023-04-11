@@ -4,7 +4,7 @@ const e = str => encodeURIComponent(encodeURIComponent(str))
 export const createOgImage = ({ title, meta }) =>
   [
     // ACCOUNT PREFIX
-    `https://res.cloudinary.com/halid/image/upload`,
+    `https://res.cloudinary.com/dtl8xyerv/image/upload/v1681227961/43ee73fd20c0c580800babae25d3cb1e_ihthfv.jpg`,
     // Composed Image Transformations
     `w_1600,h_836,q_100`,
 
