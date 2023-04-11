@@ -4,7 +4,7 @@ const projects = [
     name: 'Discord Welcome Bot',
     description:
       'Discord Welcome bot, sunucuya katılan kullanıcılara rehberlik eder ve kuralları tanıtır.',
-    image: '/projects/Discord.gif',
+    image: '/projects/discord.gif',
     link: 'https://github.com/arjenxyz/discord-welcome-bot.git',
     live: '/',
     tags: ['discord.js'],
@@ -14,7 +14,7 @@ const projects = [
     name: 'Discord English Bot',
     description:
       'Discord English Bot, Sadece ingilizce sorulara veya sohbet cümlelerine cevap verebilecek türden kodlanmış bir yapay zekadır.',
-    image: '/projects/Discord.gif',
+    image: '/projects/discord.gif',
     link: 'https://github.com/arjenxyz/discord-english-chatbot.git',
     live: '/',
     tags: ['discord.js'],
