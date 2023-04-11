@@ -53,6 +53,19 @@ const Home = () => {
           </Link>
           üzerinden de ulaşabilirsiniz.
         </p>
+    <style jsx>{`
+
+        p {
+
+          margin-top: 20px;
+
+          line-height: 1.8;
+
+          font-size: 1.1rem;
+
+        }
+
+      `}</style>
         <p>Hicr Suresi 97. Ayet<br />
         Göğsünün daraldığını biliyoruz. (ama sabret, Seni zafere ulaştıracağız)<br /> <br />
        🧡 {' '}
