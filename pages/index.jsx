@@ -7,7 +7,7 @@ const Index = () => {
   return (
     <Layouts>
       <Head>
-        <title>Halid - Frontend Developer</title>
+        <title>Arjen - Portföy</title>
       </Head>
       <Home />
       <Projects />
