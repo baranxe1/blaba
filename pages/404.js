@@ -4,7 +4,7 @@ const error = () => {
   return (
     <Layouts>
       <div className='font-semibold text-center py-24 uppercase text-4xl'>
-        please come back later
+        Arjen, bu bölgeye girmenizi yasakladı!
       </div>
     </Layouts>
   )
