@@ -1,10 +1,10 @@
 import { createOgImage } from './createOgImage'
 
-const title = `Halid`
-const description = `Halit is a front-end developer who specializes in building web applications.`
-const domain = `halit.dev`
-const twitter = `@halidislm`
-const meta = `Front-end Developer`
+const title = `Arjen`
+const description = `Resmi Portföy Sayfasıdır`
+const domain = `arjen-xyz.vercel.app`
+const twitter = `@arjenxyz`
+const meta = `Developer`
 
 export const seo = {
   title: title + ' | ' + meta,
