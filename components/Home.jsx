@@ -20,7 +20,7 @@ const Home = () => {
      </p>
 
         <p>
-          Bana hızlı bir şekilde ulaşmak için {' '} üzerinden iletişime geçmenizi öneririm.
+          Bana hızlı bir şekilde ulaşmak için {' '}.
           <Link
             className='cursor-ne-resize  font-bold'
             href='https://www.instagram.com/roi.xyz/'
@@ -42,7 +42,7 @@ const Home = () => {
           >
             Twitter
           </Link>
-          ve {' '}
+           ve {' '}
           <Link
             className='cursor-ne-resize  font-bold'
             href='https://www.snapchat.com/add/roi.xyz?share_id=rHzo2vf6aAw&locale=en-AU'
@@ -52,12 +52,12 @@ const Home = () => {
           üzerinden de ulaşabilirsiniz.
         </p>
         <p>Hicr Suresi 97. Ayet<br />
-        Göğsünün daraldığını biliyoruz (ama sabret, Seni zafere ulaştıracağız).<br /> <br />
+        Göğsünün daraldığını biliyoruz. (ama sabret, Seni zafere ulaştıracağız)<br /> <br />
         {' '}
-          <Link className='font-bold' href='https://arjenxyz.vercel.app/mesaj.html'>
+          <Link className='font-bold' href='https://arjen-xyz.vercel.app/mesaj.html'>
             Şifreli Hatıra Mesajı
           </Link>
-          .
+          
         </p>
       </article>
       <style jsx>{`
