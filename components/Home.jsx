@@ -44,7 +44,7 @@ const Home = () => {
           >
             Twitter
           </Link>
-           &Nbsp ve {' '}
+ ve {' '}
           <Link
             className='cursor-ne-resize  font-bold'
             href='https://www.snapchat.com/add/roi.xyz?share_id=rHzo2vf6aAw&locale=en-AU'
@@ -55,7 +55,7 @@ const Home = () => {
         </p>
         <p>Hicr Suresi 97. Ayet<br />
         Göğsünün daraldığını biliyoruz. (ama sabret, Seni zafere ulaştıracağız)<br /> <br />
-        {' '}
+       🧡 {' '}
           <Link className='font-bold' href='https://arjen-xyz.vercel.app/mesaj.html'>
             Şifreli Hatıra Mesajı
           </Link>
