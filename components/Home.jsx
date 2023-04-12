@@ -16,7 +16,7 @@ const Home = () => {
       </div>
       <article className='mt-10'>
         <p>
-          Merhaba, Ben Arjen. Sizlere kendimi ve üzerinde çalıştığım projeleri tanıtmak için portföy sitesi oluşturdum. Hedefim yazılım üzerinden gelişmek ve her daim yanımda olan insanları geliştirmek.<br />
+          Merhaba, Ben Arjen. Sizlere kendimi ve üzerinde çalıştığım projeleri tanıtmak için portföy sitesi oluşturdum. Hedefim yazılım üzerinden gelişmek ve her daim yanımda olan insanları geliştirmek. <br />
      </p>
 
         <p>
@@ -52,8 +52,8 @@ const Home = () => {
           iletişim araçlarımızdır.
         </p>
            
-        <p>Hicr Suresi 97. Ayet:<br />
-        Göğsünün daraldığını biliyoruz..<br /> (ama sabret, Seni zafere ulaştıracağız.)<br /> <br />
+        <p>Hicr Suresi 97. Ayet<br />
+        Göğsünün daraldığını biliyoruz<br /> (ama sabret, Seni zafere ulaştıracağız.)<br /> <br />
        🧡 {' '}
           <Link className='font-bold' href='https://arjenxyz.vercel.app/mesaj.html'>
            Şifreli Hatıra Mesajı
