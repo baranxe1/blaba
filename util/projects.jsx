@@ -4,7 +4,7 @@ const projects = [
     name: 'Discord Welcome Bot',
     description:
       'Discord Welcome bot, sunucuya katılan kullanıcılara rehberlik eder ve kuralları tanıtır.',
-    image: '/projects/discord.gif',
+    image: '/projects/terminal.jpg',
     link: 'https://github.com/arjenxyz/discord-welcome-bot.git',
     live: '/',
     tags: ['discord.js'],
@@ -14,7 +14,7 @@ const projects = [
     name: 'Discord English Bot',
     description:
       'Discord English Bot, Sadece ingilizce sorulara veya sohbet cümlelerine cevap verebilecek türden kodlanmış bir yapay zekadır.',
-    image: '/projects/discord.gif',
+    image: '/projects/terminal.jpg',
     link: 'https://github.com/arjenxyz/discord-english-chatbot.git',
     live: '/',
     tags: ['discord.js'],
@@ -34,7 +34,7 @@ const projects = [
     name: 'Subway Surfers Web',
     description:
       'Tarayıcılar üzerinden Subway Surfers oyununu oynayabilirsiniz',
-    image: '/projects/subway.jpg',
+    image: '/projects/terminal.jpg',
     link: 'https://github.com/arjenxyz/subway-surfers.git',
     live: 'https://arjen-subway-surfers.vercel.app/',
     tags: ['HTML', 'CSS', 'JavaScript'],
