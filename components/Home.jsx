@@ -26,7 +26,7 @@ const Home = () => {
             href='https://github.com/arjenxyz'
           >
             Github
-          </Link> profilini takip et.
+          </Link>
         </p>
         <p>
           {' '}
