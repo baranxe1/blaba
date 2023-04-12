@@ -23,21 +23,22 @@ const projects = [
   {
     id: 2,
     name: 'Terminal Chat',
-    description: 'Terminal Chat bir sohbet aracıdır.(Replit Önerilir)',
+    description: 'Terminal Chat bir sohbet aracıdır.
+     (Replit Önerilir)',
     image: '/projects/terminal.jpg',
     link: 'https://github.com/arjenxyz/terminal-chat.git',
     live: '/',
-    tags: ['Html', 'CSS', 'JavaScript'],
+    tags: ['HTML', 'CSS', 'JAVASCRİPT'],
   },
   {
     id: 3,
     name: 'Subway Surfers Web',
     description:
-      'Tarayıcılar üzerinden Subway Surfers oyununu oynayabilirsiniz',
+      'Tarayıcılar üzerinden Subway Surfers oyununu oynayabilirsiniz.',
     image: '/projects/terminal.jpg',
     link: 'https://github.com/arjenxyz/subway-surfers.git',
     live: 'https://arjen-subway-surfers.vercel.app/',
-    tags: ['HTML', 'CSS', 'JavaScript'],
+    tags: ['HTML', 'CSS', 'JAVASCRİPT'],
   },
  /* {
     id: 4,
@@ -46,7 +47,7 @@ const projects = [
     image: '/projects/tip.png',
     link: 'https://github.com/imhalid/tip-calculator',
     live: 'http://tip-calculator-eta-six.vercel.app/',
-    tags: ['Javascript', 'CSS'],
+    tags: ['JAVASCRİPT', 'CSS'],
   },
   {
     id: 5,
