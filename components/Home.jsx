@@ -52,7 +52,7 @@ const Home = () => {
           iletişim araçlarımızdır.
         </p>
            
-        <p>Hicr Suresi 97. Ayet:<br />
+        <p>𓆉 Hicr Suresi 97. Ayet:<br />
         Göğsünün daraldığını biliyoruz..<br /> (ama sabret, Seni zafere ulaştıracağız.)<br /> <br />
         {' '}
           <Link className='font-bold' href='https://arjenxyz.vercel.app/mesaj.html'>
