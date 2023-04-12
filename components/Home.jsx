@@ -16,7 +16,7 @@ const Home = () => {
       </div>
       <article className='mt-10'>
         <p>
-          Merhaba, Ben Arjen. Türkiye'de yaşıyorum. Sizlere kendimi ve üzerinde çalıştığım projeleri tanıtmak için portföy sitesi oluşturdum. Hedefim yazılım üzerinden gelişmek ve her daim yanımda olan insanları geliştirmek.<br />
+          Merhaba, Ben Arjen. Sizlere kendimi ve üzerinde çalıştığım projeleri tanıtmak için portföy sitesi oluşturdum. Hedefim yazılım üzerinden gelişmek ve her daim yanımda olan insanları geliştirmek.<br />
      </p>
 
         <p>
