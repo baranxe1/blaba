@@ -23,8 +23,7 @@ const projects = [
   {
     id: 2,
     name: 'Terminal Chat',
-    description: 'Terminal Chat bir sohbet aracıdır.
-     (Replit Önerilir)',
+    description: 'Terminal Chat bir sohbet aracıdır. (Replit Önerilir)',
     image: '/projects/terminal.jpg',
     link: 'https://github.com/arjenxyz/terminal-chat.git',
     live: '/',
