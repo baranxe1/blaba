@@ -4,7 +4,7 @@ import classNames from '../util/classNames'
 const footer = () => {
   var time = new Date()
   var fullTime = new Intl.DateTimeFormat('tr-TR', {
-    weekday: 'short',
+    weekday: 'long',
   }).format(time)
 
   var min =
@@ -23,10 +23,10 @@ const footer = () => {
         )}
       >
         <div className=''>
-          Tüm hakları saklıdır
+         © Tüm hakları saklıdır
         </div>
         <div className='font-bold'>
-          Yerel Zaman: {min} {fullTime}
+          ☪ Yerel Zaman: {min} {fullTime}
         </div>
       </div>
     </>
