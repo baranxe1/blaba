@@ -3,21 +3,21 @@ const projects = [
     id: 8,
     name: 'Discord Welcome Bot',
     description:
-      'Discord Welcome bot, sunucuya katılan kullanıcılara rehberlik eder ve kuralları tanıtır.',
+'Discord Welcome bot, sunucuya katılan kullanıcılara rehberlik eder ve kuralları tanıtır.',
     image: '/public/projects/terminal.jpg',
     link: 'https://github.com/arjenxyz/discord-welcome-bot.git',
     live: '/',
-    tags: ['DİSCORD.JS'],
+    tags: ['discord.js'],
   },
   {
     id: 1,
     name: 'Discord English Bot',
     description:
-      'Discord English Bot, Sadece ingilizce sorulara veya sohbet cümlelerine cevap verebilecek türden kodlanmış bir yapay zekadır.',
+'Discord English Bot, Sadece ingilizce sorulara veya sohbet cümlelerine cevap verebilecek türden kodlanmış bir yapay zekadır.',
     image: '/public/projects/terminal.jpg',
     link: 'https://github.com/arjenxyz/discord-english-chatbot.git',
     live: '/',
-    tags: ['DİSCORD.JS'],
+    tags: ['discord.js'],
   },
 
   {
@@ -27,17 +27,17 @@ const projects = [
     image: '/public/projects/terminal.jpg',
     link: 'https://github.com/arjenxyz/terminal-chat.git',
     live: '/',
-    tags: ['HTML', 'CSS', 'JAVASCRİPT'],
+    tags: ['html', 'css', 'javascript'],
   },
   {
     id: 3,
     name: 'Subway Surfers Web',
     description:
-      'Tarayıcılar üzerinden Subway Surfers oyununu oynayabilirsiniz.',
+'Tarayıcılar üzerinden Subway Surfers oyununu oynayabilirsiniz.',
     image: '/public/projects/terminal.jpg',
     link: 'https://github.com/arjenxyz/subway-surfers.git',
     live: 'https://arjen-subway-surfers.vercel.app/',
-    tags: ['HTML', 'CSS', 'JAVASCRİPT'],
+    tags: ['html', 'css', 'javascript'],
   },
  /* {
     id: 4,
